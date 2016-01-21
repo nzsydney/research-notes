@@ -1,0 +1,5 @@
+Hitchcock offers the case study of one Sarah Durrant, leading us through a maze of digitized objects, showing how the information it reveals about her is as important as the contexts in which that information is found - an example of the power of association, creating a world of linked open data http://historyonics.blogspot.ca/2013/12/big-data-for-dead-people-digital.html 
+
+goes on to work through example of geolocating text resulting in the collision of two worlds: fuzziness of historical evidence, often only text, coming up against point/line/polygon rigor of archaeologists and geographers with their GIS tools prompting a realization that the demographic and cliometric approaches of the past were being reinvented as "scientific analysis of the past"in terms of big data approaches and culturomics.
+
+He aligns these scientific aspirations with a kind of positivism which has been out of favour for at least the last 30 years and suggests that in the move towards  more 'social science' approach, humanistic practices are being driven by technology, not using it as an empowering, emancipating tool.
