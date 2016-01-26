@@ -1,0 +1,1 @@
+scraper exercise using OutWit over Sudo Online - searching within OutWit, viewing page source, cut/paste toggled markup, executing scraping, catching, then exporting to excel spreadsheet which includes collection time, source URL, search term, and text captured, unicode compliant [Greek text reproduced]. sweet!
