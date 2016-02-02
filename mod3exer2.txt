@@ -1,0 +1,1 @@
+regex exercise step-by-step per instructions, saving file with new name after each. remember to perform a replace operation pn a multi-string find query, each step enclosed by (), second query signalled simply as \2 ! Q to shawn, could write a script to perform entire sequence at once???
