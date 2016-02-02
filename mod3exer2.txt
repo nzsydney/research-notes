@@ -1,1 +1,14 @@
-regex exercise step-by-step per instructions, saving file with new name after each. remember to perform a replace operation pn a multi-string find query, each step enclosed by (), second query signalled simply as \2 ! Q to shawn, could write a script to perform entire sequence at once???
+regex exercise step-by-step per instructions, saving file with new name after each, total 8 stages using text wrangler although it creates an interim working file with find search hits that click on to perform replace which means you can close that window and not save if something goes wildly wrong.
+from outset surely there must be a way to script the ocr grab? everything before and everything after automatically deleted?
+1. index grab
+2. find (.+\bto\b.+.) replace ~\1
+3. find \r\n[^~].+ replace nothing
+4. find ^\r replace nothing
+5. find (,)( [0-9]{4})(.+) replace \2 [ok, remember to perform a replace operation in a multi-string find query, each step enclosed by (), second query signalled simply as \2 ! 
+6. find ~ replace nothing
+7. find space to\b replace ,
+8. find .+,.+,.+, clean manually each one with next
+9. add header Source, Target, Date [essential for SNA]
+rename cleaned-correspondence.csv
+
+Q to shawn, could write a script to perform entire sequence at once???
